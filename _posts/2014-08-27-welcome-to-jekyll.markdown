@@ -1,39 +1,49 @@
 ---
 layout: post
-title:  "p19 Fall"
+title:  "p19 Fall 2014"
 date:   2014-08-27 21:24:52
-categories: jekyll update
+categories: schedule
 ---
 ##p19 fall 2014
 
-Our 14-15 theme on knowledge organization and information culture brings together specialists in Victorian literature and culture and library and information science to think about a few centuries of how we have thought about the possibility of knowing everything while feeling like we know nothing. Join us! 
+Our 14-15 theme on knowledge organization and information culture brings together specialists in Victorian literature and culture and library and information science. Join us! 
 
-seminar 1
+========
 
-*Thursday, October 2, 2014*
+#### *seminar 1*: Thursday, October 2, 2014
 
-####Simon Reader (Harvard University) 
-### ”’Queer Little Experiences': George Gissing's Notes"
+#### [Simon Reader](https://harvard.academia.edu/SimonReader) (Harvard University) 
 
-with response by
+> ### 'Queer Little Experiences': George Gissing's Notes
 
-####Patrick Keilty (Faculty of Information, University of Toronto)
+pre-circulated paper with a response by
+
+#### [Patrick Keilty](http://www.ischool.utoronto.ca/patrick-keilty) (Faculty of Information, University of Toronto)
+
 5:15 pm at the Temple University Humanities Center, Gladfelter Hall, 10th floor. 
 
-seminar 2
+========
 
-##### Thursday, November 20, 2014
-#### Richard Menke (University of Georgia)
-#### “Touchstones and Tit-bits: Extracting Culture in the 1880s”
+#### *seminar 2*: Thursday, November 20, 2014
 
-seminar 3
-##### Thursday, December 11, 2014
-#### Megan Ward (Oregon State University)
-#### ”The Material History of a Digital Archive"
+#### [Richard Menke](https://www.english.uga.edu/directory/501/detail) (University of Georgia)
+
+> ### Touchstones and Tit-bits: Extracting Culture in the 1880s
+
+5:15 pm at the Temple University Humanities Center, Gladfelter Hall, 10th floor. 
+
+========
+
+#### *seminar 3*: Thursday, December 11, 2014
+
+#### [Megan Ward](http://www.livingstoneonline.ucl.ac.uk/project/staff.html) (Oregon State University)
+
+> ### ”The Material History of a Digital Archive"
+
+5:15 pm at the Temple University Humanities Center, Gladfelter Hall, 10th floor. 
 
 [more information] 
-Funded by Swarthmore College, Bryn Mawr College, a Trico Mellon Roots grant, and the [Center for the Humanities at Temple University](http://www.cla.temple.edu/chat/about/index.html). Often found collaborating with the Delaware Valley British Studies Group and the University of Pennsylvania’s [Workshop in the History of Material Texts](http://www.english.upenn.edu/Programs/histbook/). 
+Funded by [Swarthmore College](www.swarthmore.edu), [Bryn Mawr College](www.brynmawr.edu), and [Haverford College](www.haverford.edu) via a Trico Mellon Roots grant, and by the [Center for the Humanities at Temple University](http://www.cla.temple.edu/chat/about/index.html). Often found collaborating with the Delaware Valley British Studies Group and the University of Pennsylvania’s [Workshop in the History of Material Texts](http://www.english.upenn.edu/Programs/histbook/). 
 
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
+[jekyll]:      http://p19.github.io
+
