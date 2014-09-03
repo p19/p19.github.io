@@ -1,8 +1,10 @@
 ---
 layout: page
-title: fall 2014 schedule
+title: about
 permalink: /about/
 ---
+
+P19 is a cross-institutional, interdisciplinary, nineteenth-century literature and culture seminar attended by scholars from across the Philadelphia region.
 
 Our 14-15 theme on knowledge organization and information culture brings together specialists in Victorian literature and culture and library and information science. Join us!
 

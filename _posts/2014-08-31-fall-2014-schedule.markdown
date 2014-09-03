@@ -1,12 +1,10 @@
 ---
 layout: post
-title:  "p19 Fall 2014"
-date:   2014-08-27 21:24:52
+title:  "Fall 2014 - current schedule"
+date:   2014-08-31 21:24:52
 categories: schedule
 ---
-##p19 fall 2014
-
-Our 14-15 theme on knowledge organization and information culture brings together specialists in Victorian literature and culture and library and information science. Join us! 
+Our 2014-15 series on knowledge organization and information culture brings together specialists in nineteenth-century literature and culture and library and information science. Join us!
 
 ========
 
