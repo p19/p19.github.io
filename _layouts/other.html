@@ -2,13 +2,11 @@
 layout: default
 ---
 
-<header>
+<div id="title">
 	<span id="title_string"><a href="/">p19</a></span>&nbsp;&nbsp;&nbsp; <span id="nav"><a href="/">Home</a></span><br>
-</header>
+</div>
 
 <article>
-	<h1 class="page_title">{{ page.title }}</h1>
+	<div class="page_title">{{ page.title }}</div>
 	{{ content }}
 </article>
-
-{% include comments.html %}
