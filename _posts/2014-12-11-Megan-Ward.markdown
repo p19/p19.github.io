@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Megan Ward on The Material History of a Digital Archive
+title: <b>Megan Ward on The Material History of a Digital Archive</b>
 meta-description: Ward talks about the materiality of the digital using the example of Livingstone Online. 
 ---
 
