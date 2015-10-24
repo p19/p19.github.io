@@ -47,14 +47,14 @@ meta-description: "P19 website"
 		<li><span class="bullet">Video:</span> <a href="http://vimeo.com/9790850">Algorithms are Thoughts, Chainsaws are Tools</a></li>
 		<li><span class="bullet">Video:</span> <a href="http://vimeo.com/10039185">Writing as Programming as Writing</a></li>
 		<li><span class="bullet">Audio:</span> <a href="/audio/ramsay_care_of_the_soul.mp3">Care of the Soul</a> <span class="bullet">[MP3]</span></li>
-		<li><span class="bullet">Video:</span> <a href="http://vimeo.com/25011920">In Praise of Pattern</a>
+		<li><span class="bullet">Video:</span> <a href="http://vimeo.com/25011920">In Praise of Pattern</a> 
 	</ul>
 </nav>
 --!>
 <nav>
 	<h2 class="section_title">info</h2>
 	<ul class="items">
-	    <li><span class="bullet">p19</span> <a href="/info/about/">About us</a></li>
+	    <li><span class="bullet">p19 2014-2015</span> <a href="/info/about/">About our knowledge + info theme</a></li>
 	    <!--
 		<li><span class="bullet"><a href="/info/blogroll/"></span> Knowledge + Info Theme</a></li>
 		--!>
