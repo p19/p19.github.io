@@ -1,9 +1,14 @@
 ---
 layout: post
-title: Claire Jarvis on Trollope
-meta-description: Jarvis work in progress.
+title: Claire Jarvis on Almost Trollope
+meta-description: Claire Jarvis on Trollope
 ---
 
 <b><a href = "https://english.stanford.edu/people/claire-jarvis">Claire Jarvis</a> (Stanford University) on</b>
 
-<b>TBA</b>
+<b>"Almost Trollope"</b>
+
+Trollope’s compositional habits have long created problems for critics interested in describing or analyzing his form. For instance, given the emphasis (in the Autobiography and elsewhere) on his compositional speed, it has been difficult to think about Trollope’s writing in terms of common indexes of formal power, like precision, complexity, and thoughtful revision. Even the criticism on Trollope’s form often includes caveats about his laxity, his writing’s rapidity, and his novels’ tendency to include plot holes and vanished characters, his preference for “incident over event,” (the phrase is Henry James’s). This paper offers one explanation for why his novels’ formal experiments can be read as formal failures: his interest in hesitant narration, marked by the narrator’s outspoken ambivalence about Trollope’s characters’ flaws and failures. This investment can be made clearer if we notice his use of qualifying language as a barrier between narrator and character. By tracking Trollope’s use of “almost” over the course of the Palliser series, I argue that his novels are marked by a hesitancy to enter fully into his characters’ minds, in distinction to other nineteenth-century realists. By remaining “almost” insightful (and as a result only “almost” in his narrated world), Trollope manages his narrator’s nearness to his characters with a model of insight that is asymptotically, rather than proximately, related to narrated thought.
+
+[Claire Jarvis](https://english.stanford.edu/people/claire-jarvis) is assistant professor of English at Stanford University.  She studies British literature of the long nineteenth century with emphasis on the novel and theories of sexuality. Her first book, *Exquisite Masochism: Sex, Marriage and the Novel Form* has just been published by The Johns Hopkins University Press, and she has recently presented or published work on Jeff Koons, Charles Dickens, The Wire, D. H. Lawrence, Anthony Trollope, Barbara Pym, Tom McCarthy and E. L. James' Fifty Shades of Grey Trilogy. She is interested in intersections between popular culture and intellectual life, and the status of the novel in narrative studies.  Her second book project, tentatively titled The Victorian Past of Literary Fiction, analyzes 20th and 21st century literature's uses of nineteenth century poetic, novelistic and aesthetic theories.
+

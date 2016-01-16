@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <b>Beth Womack on Dickens's Recording Angel</b>
+title: Beth Womack on Dickens's Recording Angel
 meta-description: Womack work in progress.
 ---
 
