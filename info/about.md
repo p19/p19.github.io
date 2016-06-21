@@ -4,6 +4,6 @@ title: About
 meta-description: P19 description here
 ---
 
-P19 is a cross-institutional, interdisciplinary, nineteenth-century literature and culture seminar attended by scholars from across the Philadelphia region.
+P19 is a cross-institutional, interdisciplinary, nineteenth-century literature and culture seminar convened by Rachel Sagner Buurma (Swarthmore), Talissa Ford (Temple), and Kate Thomas (Bryn Mawr), and attended by scholars from across the Philadelphia region.
 
-Contact <a href = "http://www.rachelsagnerbuurma.org">Rachel Sagner Buurma</a> at rbuurma 1 at swarthmore dot edu for more information. 
+Contact <a href = "http://www.rachelsagnerbuurma.org">Rachel Sagner Buurma</a> at rbuurma 1 at swarthmore dot edu for more information.
