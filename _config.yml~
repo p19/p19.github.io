@@ -2,9 +2,7 @@ safe: true
 base-url: /
 post_dirs: false
 
-#plugins: ./_plugins
-
-#plugins: plugins_dir
+plugins: ./_plugins
 
 markdown: kramdown
 permalink: pretty
