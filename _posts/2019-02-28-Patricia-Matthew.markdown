@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Patricia Matthew
+title: Patricia Matthew on The Woman of Color and Mansfield Park
 date: 2019-2-28
 meta-description: Work-in-progress by Patricia Matthew (Montclair State)
 ---
