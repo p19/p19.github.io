@@ -1,7 +1,8 @@
+---
 layout: post
-title: Mary Mullen's *Novel Institutions*: conversation + celebration
 date: 2020-2-22
 meta-description: Book conversation and celebration of Mary Mullen's *Novel Institutions*
+---
 
 <b>P19 warmly invites you to join us to celebrate Mary Mullen’s new book *Novel Institutions : Anachronism, Irish Novels and Nineteenth-Century Realism* (Edinburgh University Press, 2019).</b>
 
