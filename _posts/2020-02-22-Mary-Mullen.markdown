@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 📕🎉: Mary Mullen's *Novel Institutions*: conversation + celebration
+title: Mary Mullen's *Novel Institutions*: conversation + celebration
 date: 2020-2-22
 meta-description: Book conversation and celebration of Mary Mullen's *Novel Institutions*
 ---
