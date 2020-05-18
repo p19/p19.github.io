@@ -1,8 +1,6 @@
-
-
 ---
 layout: post
-title: Alisha Walters on sugar, appetite, and race, with Ryan Fong responding
+title: Alisha Walters on sugar, appetite, + race, Ryan Fong response 
 date: 2020-6-10
 meta-description: work in progress by Alisha Walters
 ---
@@ -23,6 +21,6 @@ Alisha R. Walters is an Assistant Professor of Victorian Literature and Culture 
 
 Ryan Fong
 
-<b?Please join us virtually on Thursday, June 11th at 1pm Eastern (note the unusual time!). Please RSVP here if you plan to attend and we will send you the link on June 10th.</b>
+<b>Please join us virtually on Thursday, June 11th at 1pm Eastern (note the unusual time!). Please RSVP here if you plan to attend and we will send you the link on June 10th.</b>
 
 -
