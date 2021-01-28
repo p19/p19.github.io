@@ -9,7 +9,7 @@ Please join us for our first p19 meeting of 2021! Nicole Aljoe will give A TALK 
 
 <b>"Creole Testimonies in the Archives: Caribbean Female Slave Narratives and Revisions of Voice, Memory, and Metadata"</b>
 
-<b>Please [RSVP here if you plan to attend](https://forms.gle/kZedfkVxkKY9s32w6) and we will send you the Zoom link on November 11th.</b>
+<b>Please [RSVP here if you plan to attend](https://forms.gle/kZedfkVxkKY9s32w6) and we will send you the Zoom link on February 10th.</b>
 
 Nicole writes:
 
