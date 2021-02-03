@@ -5,6 +5,8 @@ date: 2021-2-11
 meta-description: a talk by Nicole Aljoe
 ---
 
+THIS TALK HAS BEEN POSTPONED - WILL UPDATE WHEN WE HAVE A NEW DATE! Apologies! 
+
 Please join us for our first p19 meeting of 2021! Nicole Aljoe will give A TALK (notice unusual format - no pre-circulated reading) on Thursday February 11th at 4:30 pm Eastern:
 
 <b>"Creole Testimonies in the Archives: Caribbean Female Slave Narratives and Revisions of Voice, Memory, and Metadata"</b>
