@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nicole Aljoe on Creole Testimonies in the Archives
+title: POSTPONED Nicole Aljoe on Creole Testimonies in the Archives
 date: 2021-2-11
 meta-description: a talk by Nicole Aljoe
 ---
