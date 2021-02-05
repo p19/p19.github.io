@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sukanya Banerjee on Transimperial Ecologies, Michael Tondre responding
-date: 2020-3-19
+date: 2021-3-19
 meta-description: discussion of article by Sukanya Banerjee
 ---
 
