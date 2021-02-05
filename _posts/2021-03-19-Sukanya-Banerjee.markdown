@@ -7,7 +7,7 @@ meta-description: discussion of article by Sukanya Banerjee
 
 Please join us for our next p19 works-in-progress meeting on <b>Friday March 19th at 4:30 pm Eastern</b> as we welcome Sukanya Banjerjee for a discussion of transimperial ecologies based on her recently-published article
 
-[<b>"Ecologies of Cotton"</b>(https://www.tandfonline.com/doi/full/10.1080/08905495.2020.1816089)
+[<b>"Ecologies of Cotton"</b>](https://www.tandfonline.com/doi/full/10.1080/08905495.2020.1816089)
 
 <b>with a response by Michael Tondre</b>
 
