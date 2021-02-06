@@ -15,7 +15,7 @@ Please join us for our next p19 works-in-progress meeting on <b>Friday March 19t
 
 The article is available in the [newly-published issue of *Nineteenth-Century Contexts](https://www.tandfonline.com/doi/full/10.1080/08905495.2020.1816089), edited by Brianna Beehler, Grace Franklin, and Devin Griffiths. If you need a copy of the article, please contact me.
 
-<b>Please [RSVP here if you plan to attend]() and we will send you the Zoom link on November 11th.</b>
+<b>Please [RSVP here if you plan to attend](https://forms.gle/ByJK4vo8HrVN7S8y8) and we will send you the Zoom link on November 11th.</b>
 
 Sukanaya writes:
 
@@ -25,4 +25,4 @@ By focusing on the nineteenth-century cotton trade, this essay examines how the 
 
 [Michael Tondre](https://www.stonybrook.edu/commcms/english/people/tondre.php#Biography) is Associate Professor of English at Stony Brook University (SUNY) and author of The Physics of Possibility: Victorian Fiction, Science, and Gender (2018). His writing has appeared in PMLA, ELH, Victorian Studies, Victorian Literature and Culture, and Nineteenth Century Literature, and has recently received the Nineteenth-Century Studies Association article prize and the Society for Literature, Science, and the Arts essay prize.  He is currently completing a monograph titled Refinement: Oil, Aestheticism, and the British Atlantic World, 1800-1930.
 
-Please remember[to RSVP]()!
+Please remember[to RSVP](https://forms.gle/ByJK4vo8HrVN7S8y8)!
