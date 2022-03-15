@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Abigail Droge on Charles Dickens + Mutual Improvement Societies
-date: 2022-3-23
+date: 2022-3-14
 meta-description: discussion of article by Abigail Droge
 ---
 
