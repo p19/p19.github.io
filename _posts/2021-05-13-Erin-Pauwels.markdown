@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Erin Pauwels on the analog roots of hypertext
-date: 2021-3-19
+date: 2021-5-13
 meta-description: discussion of article by Erin Pauwels
 ---
 
